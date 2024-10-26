@@ -1,23 +1,24 @@
-Welcome! 👋 I'm Marc, a full-stack developer passionate about building solutions that bridge business needs with innovative technology. From websites and custom applications to AI-driven tools, I enjoy creating experiences that help businesses thrive.
+Welcome! 👋 I'm Marc, a full-stack developer driven by the challenge of creating solutions that solve business problems with modern tech. I work across front and back ends, developing everything from interactive websites to data-driven applications.
 
 👨‍💻 About Me
-I'm a dedicated and curious developer with experience across the full stack, using React, Next.js, TypeScript, Node.js, and MongoDB to build responsive, scalable applications. I also work with Objective-C and SwiftUI for mobile development, including projects like mscharge, which highlights my passion for dynamic user experiences on mobile.
+I’m skilled in building web applications from the ground up, working with React, Next.js, TypeScript, Node.js, MongoDB, and Python for data handling and automation. My projects focus on crafting efficient, responsive solutions tailored to business needs.
 
 🔧 Core Skills
 Frontend: React, Next.js, TailwindCSS, TypeScript, Framer Motion
 Backend: Node.js, MongoDB, Supabase
-Mobile: SwiftUI, Objective-C
-Development Tools: OnlineGDB, Git, Domain Agents
-Special Interests: API design, AI-assisted solutions, and payment integration (exploring Apple’s Tap to Pay)
+Automation & Data: Python for data extraction, web scraping, and chatbot development
+Development Tools: OnlineGDB, Git, Domain Agents, Claude AI and OpenAI
+Special Interests: API development, AI-assisted tools, and payment integration (exploring Apple’s Tap to Pay)
 📈 Current Projects
-Portfolio Website: A fully responsive site deployed on Vercel, showcasing my expertise in front-end technologies with smooth animations using Framer Motion.
-mscharge: A SwiftUI-based app under development to streamline payment solutions.
-YouTube Channel: Aimed at helping viewers understand the tech behind solving real business problems, with a focus on AI-driven web and app solutions.
+Portfolio Website: A fully responsive site deployed on Vercel, showcasing my expertise with clean design and smooth animations using Framer Motion.
+Web Scraping for Chatbots: Using Python to automate data extraction from knowledge bases, helping businesses set up chatbot support.
+YouTube Channel: Sharing insights on building AI-powered web and app solutions to tackle real business pain points in industries like real estate and fitness.
+
 🌐 YouTube Content
-My channel dives into the real-world application of tech, addressing business pain points with solutions in industries like real estate and fitness. Each video walks viewers through identifying issues, planning solutions, and building them, encouraging a practical approach to tech problem-solving.
+Each video dives into real-world tech applications, identifying pain points and designing solutions that viewers can implement themselves. My goal is to make tech accessible for solving common business challenges with AI and automation.
 
 🌱 Ongoing Learning
-I'm continually expanding my expertise, exploring payment gateways, custom API design, and the ethical considerations of AI in business. I'm also exploring MongoDB integrations and diving deeper into Objective-C assignments to sharpen my programming fundamentals.
+I'm expanding my expertise in payment gateway integrations, custom APIs, and the ethical implications of AI in business. Currently, I’m also working with MongoDB and exploring Python for more robust data manipulation and automation solutions.
 
 Let's Connect!
-Feel free to reach out if you're interested in tech solutions, discussing AI in business, or collaboration opportunities!
+Reach out if you’re interested in collaborating, discussing tech solutions, or exploring AI-driven business ideas.
