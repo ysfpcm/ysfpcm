@@ -3,6 +3,7 @@ Welcome! 👋 I'm Marc, a full-stack developer driven by the challenge of creati
 I’m skilled in building web applications from the ground up, working with React, Next.js, TypeScript, Node.js, MongoDB, and Python for data handling and automation. My projects focus on crafting efficient, responsive solutions tailored to business needs.
 
 🔧 Core Skills
+
 Frontend: React, Next.js, TailwindCSS, TypeScript, Framer Motion
 
 Backend: Node.js, MongoDB, Supabase
