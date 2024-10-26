@@ -10,7 +10,7 @@ Backend: Node.js, MongoDB, Supabase
 
 Automation & Data: Python for data extraction, web scraping, and chatbot development
 
-Development Tools: OnlineGDB, Git, Domain Agents, Claude AI and OpenAI
+Development Tools: Cursor IDE, Claude AI, OpenAI, and Vercel
 
 Special Interests: API development, AI-assisted tools, and payment integration (exploring Apple’s Tap to Pay)
 
