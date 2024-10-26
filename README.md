@@ -1,6 +1,5 @@
 Welcome! 👋 I'm Marc, a full-stack developer driven by the challenge of creating solutions that solve business problems with modern tech. I work across front and back ends, developing everything from interactive websites to data-driven applications.
 
-👨‍💻 About Me
 I’m skilled in building web applications from the ground up, working with React, Next.js, TypeScript, Node.js, MongoDB, and Python for data handling and automation. My projects focus on crafting efficient, responsive solutions tailored to business needs.
 
 🔧 Core Skills
