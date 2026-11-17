@@ -19,3 +19,4 @@ One entry per UTC day: pull requests the Steward opened and merged across my rep
 - **2026-11-14** - opened 0, merged 0; 0 awaiting review or CI.
 - **2026-11-15** - opened 0, merged 0; 0 awaiting review or CI.
 - **2026-11-16** - opened 0, merged 0; 0 awaiting review or CI.
+- **2026-11-17** - opened 0, merged 0; 0 awaiting review or CI.
